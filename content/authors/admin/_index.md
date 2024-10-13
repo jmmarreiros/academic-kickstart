@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Joao Marreiros
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Joao Marreiros
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Joao
+last_name: Marreiros
 
 # Status emoji
 status:
@@ -20,36 +20,38 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Research Group Leader
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: "TraCEr - Laboratory for Traceology and Controlled Experiments"
+    url: "https://monrepos.leiza.de/en/tracer/"
+  - name: "MONREPOS-Leibniz Zentrum für Archaeologie (LEIZA)"
+    url: "https://www.leiza.de/ueber-uns/team/person/joao-manuel-figueiras-marreiros"
+  - name: ICArEHB, Uni. Algarve
+    url: http://www.icarehb.com/jmarreiros/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:joao.marreiros@leiza.de'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://x.com/jmmarreiros
   - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://github.com/jmmarreiros
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=eR0P8TYAAAAJ&hl=pt-PT
   - icon: academicons/orcid
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Stone tool production, design and use
+  - Past hominin technological innovations
+  - Palaeolithic archaeology
+  - Archaeological survey and excavation methods
+  - Robots in experimental archaeology
 
 education:
   - area: PhD Artificial Intelligence
